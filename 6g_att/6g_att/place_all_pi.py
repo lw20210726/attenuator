@@ -189,8 +189,9 @@ def layout_channel(chain, x0, y0, neck_gap=0.8, is_0603=False):
             for idx, r in enumerate(arm_up):
                 y = y0 - shunt_y - idx * shunt_pitch
                 p1_net, p2_net = r_nets[r]
-                # Orient so signal-side pad points to +Y (towards signal line)
-                rot = -90 if p1_net == curr_sig_net else 90
+                # In KiCad (+Y downwards), rot=90 puts Pad 1 at +Y (towards signal line)
+                # rot=-90 puts Pad 2 at +Y (towards signal line)
+                rot = 90 if p1_net == curr_sig_net else -90
                 placement[r] = (round(jx, 4), round(y, 4), rot)
                 curr_sig_net = p2_net if p1_net == curr_sig_net else p1_net
 
@@ -201,8 +202,9 @@ def layout_channel(chain, x0, y0, neck_gap=0.8, is_0603=False):
             for idx, r in enumerate(arm_down):
                 y = y0 + shunt_y + idx * shunt_pitch
                 p1_net, p2_net = r_nets[r]
-                # Orient so signal-side pad points to -Y (towards signal line)
-                rot = 90 if p1_net == curr_sig_net else -90
+                # In KiCad (+Y downwards), rot=-90 puts Pad 1 at -Y (towards signal line)
+                # rot=90 puts Pad 2 at -Y (towards signal line)
+                rot = -90 if p1_net == curr_sig_net else 90
                 placement[r] = (round(jx, 4), round(y, 4), rot)
                 curr_sig_net = p2_net if p1_net == curr_sig_net else p1_net
 

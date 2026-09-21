@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "prod",
+      "plot": "prod_rev2",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""

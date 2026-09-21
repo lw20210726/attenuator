@@ -86,7 +86,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "prod")
+			(outputdirectory "prod_rev2")
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"

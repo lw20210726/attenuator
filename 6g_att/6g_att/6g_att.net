@@ -1,0 +1,10237 @@
+(export
+	(version "E")
+	(design
+		(source "/home/zxkmm/git_repos/attenuator/6g_att/6g_att/6g_att.kicad_sch")
+		(date "2026-09-20T15:05:49")
+		(tool "Eeschema 10.0.6")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "6g_att.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "J1")
+			(value "Conn_Coaxial")
+			(footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(fields
+				(field
+					(name "Footprint") "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_Coaxial")
+				(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e98b9413-dfc8-4529-acad-061a3d1216a7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J2")
+			(value "Conn_Coaxial")
+			(footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(fields
+				(field
+					(name "Footprint") "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_Coaxial")
+				(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9ea9c860-649e-46db-9463-82a4f7cce06f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J3")
+			(value "Conn_Coaxial")
+			(footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(fields
+				(field
+					(name "Footprint") "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_Coaxial")
+				(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4ff469c6-581d-4636-af54-f400934b14de")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J4")
+			(value "Conn_Coaxial")
+			(footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(fields
+				(field
+					(name "Footprint") "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_Coaxial")
+				(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cfec5287-5110-4c6d-8035-08c7ac1d912f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J5")
+			(value "Conn_Coaxial")
+			(footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(fields
+				(field
+					(name "Footprint") "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_Coaxial")
+				(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "69e04779-557f-4884-b878-0d867ce79cf6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J6")
+			(value "Conn_Coaxial")
+			(footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(fields
+				(field
+					(name "Footprint") "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_Coaxial")
+				(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e66828db-6888-4bc5-96e1-c1ed682587b4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J7")
+			(value "Conn_Coaxial")
+			(footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(fields
+				(field
+					(name "Footprint") "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_Coaxial")
+				(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fbe2a896-e779-4806-82aa-5650f2143371")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J8")
+			(value "Conn_Coaxial")
+			(footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(fields
+				(field
+					(name "Footprint") "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_Coaxial")
+				(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "96c445ec-24fd-4cfe-9ee9-cf205b137fc5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R1")
+			(value "3.3k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "aac3b04d-6036-47da-bd45-08365a0eabbd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R2")
+			(value "3.3k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c10c22cf-8a23-4a43-bcc5-049cedcf66db")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "3.3k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d182750e-892e-4c46-83cc-02576b35376e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "3.3k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "80a19a37-77b6-4010-9b64-ca799ee84285")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R5")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "67471b18-bd8f-4355-8c91-5af17719254c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R6")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "93a388e3-5f31-4565-8ad6-8dd6cdc049e4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R7")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2664b051-96a1-443b-8a3d-4e81256102a4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R8")
+			(value "97.6")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2fb5b478-c80f-4c2b-8213-f43e4dcdc384")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R9")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a2a670d0-4a8c-4f0b-a6a2-68df414932d1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R10")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f837ca13-5c70-446e-ba1d-8963d7e2d727")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R11")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "dd31b774-f4db-4d78-bc6e-94077068713d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R12")
+			(value "6.98k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0308243d-cb38-4070-b854-be48bb303fd7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R13")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "93053ac1-70b9-4924-af54-ccf6fd4c2f46")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R14")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "35a37ce2-821d-4ab0-a7e9-f9c9ef81d119")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R15")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c1c5ea6a-4096-4d84-842b-e68dc6d8ec7f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R16")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cf6f794d-c922-4f3e-8bef-f7b5cfc12588")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R17")
+			(value "71.5")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9a73aea8-4774-4647-b7b1-c38ba8b10758")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R18")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a718bfc6-71e0-47f4-8e3b-da64776d7351")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R19")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a7be1326-85e7-4a73-b687-8250b19718cd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R20")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b9a35ff5-59dc-4d33-8b0b-737073cb2052")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R21")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "525867d8-2bff-4de4-9455-abe8795d7c59")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R22")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "59af5934-d675-4268-9769-f09ce5389420")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R23")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "076bdddd-3b92-4ae7-bda0-a7b72e694134")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R24")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "aa2768dc-38a0-4a14-8376-b619f1317099")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R25")
+			(value "97.6")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "96c5f5b8-7308-4aa2-8199-c8bcb23423ac")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R26")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a0d81d3e-be65-4430-b35a-1594ebdff426")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R27")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1089849e-f461-4f12-a704-d1b5ba9cc495")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R28")
+			(value "6.98k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "804f0809-d4d8-4c16-89bf-2ab5a5cfe30e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R29")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bace5074-aae4-4908-9df3-a8d84637cea0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R30")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cf3386f4-6f96-4b2e-8395-fa8af3d12b39")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R31")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c7fba747-64c4-454e-b63e-e74dade76a1f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R32")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1ee1d10c-d3f7-414b-aa2c-dd2f6713d4e0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R33")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c61b51fb-ebbf-47db-a695-de983bf63f02")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R34")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d920c358-ec15-495d-b39a-e9d10757b582")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R35")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "568e4f07-5f81-465f-8e09-18353a072a5c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R36")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b278fa26-ca28-47bc-b3e7-19ad4c943a51")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R37")
+			(value "0")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a2f938c1-97c4-4406-bf09-a605cfe6a158")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R38")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d2193f6c-0f9c-49e1-813c-891678c2aa70")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R39")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "80b01d25-6960-4e4b-89fc-9e08630cfa48")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R40")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b341f525-0c38-4bbf-a0e7-d6122328da72")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R41")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fdb3754f-5b8a-476d-afcb-b40959e660d9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R42")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "dabd52e2-a90a-4ec2-903f-aed06e4495da")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R43")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "94bb4597-473c-4513-96af-0b3e154aa600")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R44")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "85306ffc-c5d1-4e0c-b9f5-63396402494c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R45")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "44bb3698-e6c3-4786-ab04-919cfcde666d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R46")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0127eff6-6f2f-4ec1-a01d-d8becf1513a6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R47")
+			(value "dnp")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "dnp")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d36830f1-9bd4-4689-9093-88baea4a0be5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R48")
+			(value "dnp")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "dnp")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a5afbc7f-008d-41cb-b398-25863f3e7cdb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R49")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fc66513c-5a2c-431f-8a50-91ca538e6875")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R50")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fed2057e-05e0-485f-9cfd-5e9817c8f935")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R51")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0536fba9-bff7-470e-b4e0-4e57a7175467")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R52")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "eafccd68-6a0c-4936-b476-fcfb52660b3e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R53")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "864d8deb-5422-4de3-bb11-73e1e637991f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R54")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1a48c34a-7949-4be0-88a7-df78cd5ca345")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R55")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e3585f98-5ddd-4a4a-b511-e8cd1d80847a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R56")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "28217b95-cf82-4a67-b8f0-232fe6e31d29")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R57")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "098933db-54a0-4726-a9af-28886801821d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R58")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "28a8595e-6b3d-4994-bab6-7fc5a1764b08")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R59")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0cee37ec-4591-4d9a-95d7-3145b344c31a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R60")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3f6cb0ab-68ed-44f2-94bc-07da082f4ef3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R61")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9da31f0b-465a-4368-ab97-6ffa1299ff72")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R62")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1ff68365-7c1e-4e6c-a665-d4afbc98223f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R63")
+			(value "1.8k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0b3d7d6d-50db-4ad6-af35-f6272f4e1796")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R64")
+			(value "680")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7da8622a-3595-4c01-905e-982710d95e07")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R65")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cc7568ef-15f7-4751-88cc-09e54ffa75a4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R66")
+			(value "680")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0822670e-9f33-492a-9d31-c4a61974add0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R67")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bed21f37-8e03-41b3-a053-05117dd6d55f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R68")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e5807c64-1c9a-4153-819c-26c1038ea987")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R69")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0126541d-82e1-405a-9004-46f835c0eadc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R70")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "891125f3-b84a-4d42-85b5-8dd7cd1bc250")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R71")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2577af50-2d6d-47a0-a298-032fa3083c40")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R72")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "be308ded-77fe-4e41-af30-c863f92f03c8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R73")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "72b55f4b-7e85-4079-8f09-0d6ce19d8f00")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R74")
+			(value "680")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2c293483-791c-4b90-8a0e-40832fc55cf9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R75")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "879bed9b-afa0-4784-8d8b-bbe48b3b0d5f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R76")
+			(value "680")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "46775901-ddfc-4ce3-bcbe-e183050fcc54")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R77")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e733c7e7-9661-463c-bdb7-53eec6cc59ef")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R78")
+			(value "2.2")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c34e89e8-2c55-48ac-870e-498b7fb33101")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R79")
+			(value "2.2")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a4306cc5-ecad-4e6f-b279-d05316c08c3a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R80")
+			(value "2.2")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "58cc56af-db85-4b57-9691-0d2b68fe58f8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R81")
+			(value "2.2")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f0c9243e-e748-4829-b293-e0b98bdaf45e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R82")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6d5e062c-ee22-41ab-884c-6a38882fc417")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R83")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "62c6fc3f-05bc-4ae4-b2d7-85b5946c8d5f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R84")
+			(value "2.2")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "81634dbb-68b1-4fb8-997e-6caf9666d9fd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R85")
+			(value "2.2")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fd1dfb83-b0f3-4ef2-94ee-0a85eab8994d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R86")
+			(value "2.2")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d724b0b1-a001-4106-948b-f4386bece14e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R87")
+			(value "2.2")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7ff704d0-603e-4ca6-8c58-ffba14e290a1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R88")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a74ebfe5-949c-4d9f-85ea-59f7e6e353d1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R89")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f2044bcd-c3e9-47c4-aeea-06dbe9e81dca")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R90")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6a7b98a4-04e2-4790-a88c-efbc9f2c86ff")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R91")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "15c2e51b-d64d-4e55-b0af-0d418a6f9050")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R92")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ed2ced7e-5615-428f-bc9e-192b21e7d15d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R93")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5a4b7966-8f63-4277-a7cc-f173e67a744e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R94")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d84d9491-209b-470f-abc5-40a30b006c1f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R95")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "852d9f3a-e9d4-493f-a265-121e6c7fc3b1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R96")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "25994d24-946a-4e2b-b297-ea851bd6965c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R97")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c25ad7b9-3981-4627-b610-15c05130ddd2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R98")
+			(value "150")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "88b2f7d3-08d1-4ac3-9340-91f6056adb92")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R99")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f2733d62-2257-40aa-9472-bac8223bf012")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R100")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2f5d209d-3447-43b9-aaa6-410ab5b0c7a9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R101")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "df7c1c02-cd34-4071-b0be-dd8feb7e96a0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R102")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6c8ea09a-2dc7-45b0-87db-569b6b962994")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R103")
+			(value "1")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "18d5c169-1802-40a6-bb3e-081fbaff0d53")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R104")
+			(value "150")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7ecdfce9-c41c-4a8b-a24c-9194162605ac")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R105")
+			(value "150")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e6e54915-faab-4bb0-8f37-13c4e9cfd810")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R106")
+			(value "150")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b9c04a73-0ff7-4927-8464-1f401d128561")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R107")
+			(value "150")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a900c444-12a2-4f5b-8a74-0921d165a9b0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R108")
+			(value "150")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "89332215-0fcd-4c50-9cfb-5e87c2f00a89")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R109")
+			(value "150")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8cfdcf4b-1b85-43ec-80c0-0f5016500b6e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R110")
+			(value "150")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8d5da1b8-207a-46da-8299-a1cf6f3d5a0c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R111")
+			(value "4.7")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "28592f7e-049a-4a33-b8b7-b16a83d43983")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R112")
+			(value "4.7")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7566d983-1858-4457-9db5-0106b761224a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R113")
+			(value "4.7")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2d5c3577-9160-40cf-9901-1cb229b66795")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R114")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d0052723-9d3e-4397-9dd3-8b7109bc8ad1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R115")
+			(value "4.7")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ce5d59bd-c3dc-460e-bf5c-ecfa65b26334")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R116")
+			(value "4.7")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b502409a-47f8-4547-8952-efe3f171bf14")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R117")
+			(value "4.7")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6a501705-5a43-49e3-ad69-7a5e5b35b623")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R118")
+			(value "3.3")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5ef6302a-4a49-46ed-9cd5-aade6caa9d40")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R119")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cb5b3783-a9f5-41a2-b586-56fa85ae539a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R120")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "85bd3f97-5d8b-48d1-8411-28b254c63c6f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R121")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8f14e739-5d2b-4c71-aac9-9cd21c4cf24f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R122")
+			(value "15")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f527d070-1728-4f5f-95c2-0bf956d9a5b4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R123")
+			(value "15")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "67b2564e-44a9-47ca-bf8d-570c55b31236")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R124")
+			(value "220")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9313ac69-4b6f-4352-8ce1-9c379b6b338f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R125")
+			(value "15")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f8e73109-b805-43a7-a13e-7407aa261e12")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R126")
+			(value "15")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "464b0515-d9db-4cd8-af89-b5af6eec31da")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R127")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "27fdcc26-2738-4889-a311-8c6416c7e776")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R128")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b0df8657-33fb-4a77-9e25-eeeff6cadf9d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R129")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "029292e8-bfef-4521-9a46-34d3afbb5bb1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R130")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "741cf6e7-92ae-45ce-bbf1-b7ed7b3c1c39")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R131")
+			(value "15")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2c6f4700-794c-415d-91c3-87ea75a2e0bb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R132")
+			(value "15")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ba121b9e-5a54-475a-8ff0-5551292e0eeb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R133")
+			(value "15")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6b297d1d-424d-45a9-9793-ae16a5490dcc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R134")
+			(value "15")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "601f79a6-383f-4607-a927-88023489b309")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R135")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d79673c2-ffe2-4cec-b7d3-0107a46c246e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R136")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "26cb9f33-f2cf-4c35-abd2-eff10138cad1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R137")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b63aa6eb-78e3-4859-b6c2-21fd6e8e7c0c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R138")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d357e536-10b0-4099-9178-85c624312e89")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R139")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "953035e2-a7de-45e6-b204-2cdfc1203b21")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R140")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fa374a4c-4e53-40c6-ba74-864859a97973")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R141")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "28f87c98-b682-4f1b-a7b1-729c408f9d24")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R142")
+			(value "180")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "6g_att.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7b6f7511-cb6c-4153-8bdc-3439a9cceb07")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "Connector")
+			(part "Conn_Coaxial")
+			(description "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			(footprints
+				(fp "*BNC*")
+				(fp "*SMA*")
+				(fp "*SMB*")
+				(fp "*SMC*")
+				(fp "*Cinch*")
+				(fp "*LEMO*")
+				(fp "*UMRF*")
+				(fp "*MCX*")
+				(fp "*U.FL*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_Coaxial")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "In")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Ext")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "R")
+			(description "Resistor")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "Connector")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector.kicad_sym")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "2")
+				(pinfunction "Ext_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "2")
+				(pinfunction "Ext_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J3")
+				(pin "2")
+				(pinfunction "Ext_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J4")
+				(pin "2")
+				(pinfunction "Ext_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J5")
+				(pin "2")
+				(pinfunction "Ext_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J6")
+				(pin "2")
+				(pinfunction "Ext_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J7")
+				(pin "2")
+				(pinfunction "Ext_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J8")
+				(pin "2")
+				(pinfunction "Ext_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R104")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R106")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R108")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R110")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R119")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R12")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R120")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R121")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R124")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R127")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R128")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R129")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R13")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R130")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R136")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R138")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R14")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R140")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R142")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R15")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R16")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R24")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R25")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R26")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R27")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R28")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R29")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R36")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R38")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R39")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R40")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R47")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R48")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R49")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R50")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R51")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R52")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R59")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R60")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R61")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R63")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R64")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R66")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R74")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R76")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R8")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R82")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R88")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R90")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R92")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "2")
+			(name "Net-(J1-In)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "1")
+				(pinfunction "In_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R5")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "Net-(J2-In)")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "1")
+				(pinfunction "In_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "4")
+			(name "Net-(J3-In)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "1")
+				(pinfunction "In_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J8")
+				(pin "1")
+				(pinfunction "In_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "5")
+			(name "Net-(J4-In)")
+			(class "Default")
+			(node
+				(ref "J4")
+				(pin "1")
+				(pinfunction "In_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R12")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R17")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R8")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "6")
+			(name "Net-(J5-In)")
+			(class "Default")
+			(node
+				(ref "J5")
+				(pin "1")
+				(pinfunction "In_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R37")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R47")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R48")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "7")
+			(name "Net-(J6-In)")
+			(class "Default")
+			(node
+				(ref "J6")
+				(pin "1")
+				(pinfunction "In_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R132")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R135")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R139")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "8")
+			(name "Net-(J7-In)")
+			(class "Default")
+			(node
+				(ref "J7")
+				(pin "1")
+				(pinfunction "In_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R134")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R137")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R141")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "9")
+			(name "Net-(R5-Pad2)")
+			(class "Default")
+			(node
+				(ref "R5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R6")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "Net-(R6-Pad1)")
+			(class "Default")
+			(node
+				(ref "R6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R7")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "11")
+			(name "Net-(R10-Pad1)")
+			(class "Default")
+			(node
+				(ref "R10")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R11")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "Net-(R10-Pad2)")
+			(class "Default")
+			(node
+				(ref "R10")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "Net-(R11-Pad2)")
+			(class "Default")
+			(node
+				(ref "R11")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R15")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R16")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R21")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "14")
+			(name "Net-(R13-Pad2)")
+			(class "Default")
+			(node
+				(ref "R13")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R14")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R18")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R7")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "15")
+			(name "Net-(R17-Pad2)")
+			(class "Default")
+			(node
+				(ref "R17")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R25")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R28")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R37")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "Net-(R18-Pad2)")
+			(class "Default")
+			(node
+				(ref "R18")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R19")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "Net-(R19-Pad1)")
+			(class "Default")
+			(node
+				(ref "R19")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R20")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "18")
+			(name "Net-(R20-Pad2)")
+			(class "Default")
+			(node
+				(ref "R20")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R24")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R26")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R30")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "19")
+			(name "Net-(R21-Pad2)")
+			(class "Default")
+			(node
+				(ref "R21")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R22")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "20")
+			(name "Net-(R22-Pad1)")
+			(class "Default")
+			(node
+				(ref "R22")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R23")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "21")
+			(name "Net-(R23-Pad2)")
+			(class "Default")
+			(node
+				(ref "R23")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R27")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R29")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R33")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "22")
+			(name "Net-(R30-Pad2)")
+			(class "Default")
+			(node
+				(ref "R30")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R31")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "23")
+			(name "Net-(R31-Pad1)")
+			(class "Default")
+			(node
+				(ref "R31")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R32")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "24")
+			(name "Net-(R32-Pad2)")
+			(class "Default")
+			(node
+				(ref "R32")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R36")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R38")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R41")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "25")
+			(name "Net-(R33-Pad2)")
+			(class "Default")
+			(node
+				(ref "R33")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R34")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "26")
+			(name "Net-(R34-Pad1)")
+			(class "Default")
+			(node
+				(ref "R34")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R35")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "27")
+			(name "Net-(R35-Pad2)")
+			(class "Default")
+			(node
+				(ref "R35")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R39")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R40")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R44")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "28")
+			(name "Net-(R41-Pad2)")
+			(class "Default")
+			(node
+				(ref "R41")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R42")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "29")
+			(name "Net-(R42-Pad1)")
+			(class "Default")
+			(node
+				(ref "R42")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R43")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "30")
+			(name "Net-(R43-Pad2)")
+			(class "Default")
+			(node
+				(ref "R43")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R49")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R50")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R53")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "31")
+			(name "Net-(R44-Pad2)")
+			(class "Default")
+			(node
+				(ref "R44")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R45")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "32")
+			(name "Net-(R45-Pad1)")
+			(class "Default")
+			(node
+				(ref "R45")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R46")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "33")
+			(name "Net-(R46-Pad2)")
+			(class "Default")
+			(node
+				(ref "R46")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R51")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R52")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R56")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "34")
+			(name "Net-(R53-Pad2)")
+			(class "Default")
+			(node
+				(ref "R53")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R54")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "35")
+			(name "Net-(R54-Pad1)")
+			(class "Default")
+			(node
+				(ref "R54")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R55")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "36")
+			(name "Net-(R55-Pad2)")
+			(class "Default")
+			(node
+				(ref "R55")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R59")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R60")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R67")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "37")
+			(name "Net-(R56-Pad2)")
+			(class "Default")
+			(node
+				(ref "R56")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R57")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "38")
+			(name "Net-(R57-Pad1)")
+			(class "Default")
+			(node
+				(ref "R57")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R58")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "39")
+			(name "Net-(R58-Pad2)")
+			(class "Default")
+			(node
+				(ref "R58")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R61")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R63")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R70")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "40")
+			(name "Net-(R62-Pad1)")
+			(class "Default")
+			(node
+				(ref "R62")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R69")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R73")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R78")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "41")
+			(name "Net-(R62-Pad2)")
+			(class "Default")
+			(node
+				(ref "R62")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R64")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "42")
+			(name "Net-(R65-Pad1)")
+			(class "Default")
+			(node
+				(ref "R65")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R72")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R75")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R84")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "43")
+			(name "Net-(R65-Pad2)")
+			(class "Default")
+			(node
+				(ref "R65")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R66")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "44")
+			(name "Net-(R67-Pad2)")
+			(class "Default")
+			(node
+				(ref "R67")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R68")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "45")
+			(name "Net-(R68-Pad1)")
+			(class "Default")
+			(node
+				(ref "R68")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R69")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "46")
+			(name "Net-(R70-Pad2)")
+			(class "Default")
+			(node
+				(ref "R70")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R71")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "47")
+			(name "Net-(R71-Pad1)")
+			(class "Default")
+			(node
+				(ref "R71")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R72")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "48")
+			(name "Net-(R73-Pad2)")
+			(class "Default")
+			(node
+				(ref "R73")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R74")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "49")
+			(name "Net-(R75-Pad2)")
+			(class "Default")
+			(node
+				(ref "R75")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R76")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "50")
+			(name "Net-(R77-Pad1)")
+			(class "Default")
+			(node
+				(ref "R77")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R81")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R89")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R93")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "51")
+			(name "Net-(R77-Pad2)")
+			(class "Default")
+			(node
+				(ref "R77")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R82")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "52")
+			(name "Net-(R78-Pad2)")
+			(class "Default")
+			(node
+				(ref "R78")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R79")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "53")
+			(name "Net-(R79-Pad1)")
+			(class "Default")
+			(node
+				(ref "R79")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R80")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "54")
+			(name "Net-(R80-Pad2)")
+			(class "Default")
+			(node
+				(ref "R80")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R81")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "55")
+			(name "Net-(R83-Pad1)")
+			(class "Default")
+			(node
+				(ref "R83")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R87")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R91")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R99")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "56")
+			(name "Net-(R83-Pad2)")
+			(class "Default")
+			(node
+				(ref "R83")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R88")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "57")
+			(name "Net-(R84-Pad2)")
+			(class "Default")
+			(node
+				(ref "R84")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R85")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "58")
+			(name "Net-(R85-Pad1)")
+			(class "Default")
+			(node
+				(ref "R85")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R86")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "59")
+			(name "Net-(R86-Pad2)")
+			(class "Default")
+			(node
+				(ref "R86")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R87")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "60")
+			(name "Net-(R89-Pad2)")
+			(class "Default")
+			(node
+				(ref "R89")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R90")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "61")
+			(name "Net-(R91-Pad2)")
+			(class "Default")
+			(node
+				(ref "R91")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R92")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "62")
+			(name "Net-(R93-Pad2)")
+			(class "Default")
+			(node
+				(ref "R93")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R94")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "63")
+			(name "Net-(R94-Pad1)")
+			(class "Default")
+			(node
+				(ref "R94")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R95")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "64")
+			(name "Net-(R95-Pad2)")
+			(class "Default")
+			(node
+				(ref "R95")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R96")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "65")
+			(name "Net-(R96-Pad1)")
+			(class "Default")
+			(node
+				(ref "R96")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R97")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "66")
+			(name "Net-(R100-Pad1)")
+			(class "Default")
+			(node
+				(ref "R100")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R101")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "67")
+			(name "Net-(R100-Pad2)")
+			(class "Default")
+			(node
+				(ref "R100")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R99")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "68")
+			(name "Net-(R101-Pad2)")
+			(class "Default")
+			(node
+				(ref "R101")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R102")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "69")
+			(name "Net-(R102-Pad1)")
+			(class "Default")
+			(node
+				(ref "R102")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R103")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "70")
+			(name "Net-(R103-Pad2)")
+			(class "Default")
+			(node
+				(ref "R103")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R105")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R109")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R115")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "71")
+			(name "Net-(R104-Pad2)")
+			(class "Default")
+			(node
+				(ref "R104")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R98")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "72")
+			(name "Net-(R105-Pad2)")
+			(class "Default")
+			(node
+				(ref "R105")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R106")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "73")
+			(name "Net-(R107-Pad1)")
+			(class "Default")
+			(node
+				(ref "R107")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R111")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R97")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R98")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "74")
+			(name "Net-(R107-Pad2)")
+			(class "Default")
+			(node
+				(ref "R107")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R108")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "75")
+			(name "Net-(R109-Pad2)")
+			(class "Default")
+			(node
+				(ref "R109")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R110")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "76")
+			(name "Net-(R111-Pad2)")
+			(class "Default")
+			(node
+				(ref "R111")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R112")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "77")
+			(name "Net-(R112-Pad1)")
+			(class "Default")
+			(node
+				(ref "R112")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R113")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "78")
+			(name "Net-(R113-Pad2)")
+			(class "Default")
+			(node
+				(ref "R113")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R114")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "79")
+			(name "Net-(R114-Pad1)")
+			(class "Default")
+			(node
+				(ref "R114")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R119")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R121")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R122")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "80")
+			(name "Net-(R115-Pad2)")
+			(class "Default")
+			(node
+				(ref "R115")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R116")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "81")
+			(name "Net-(R116-Pad1)")
+			(class "Default")
+			(node
+				(ref "R116")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R117")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "82")
+			(name "Net-(R117-Pad2)")
+			(class "Default")
+			(node
+				(ref "R117")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R118")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "83")
+			(name "Net-(R118-Pad1)")
+			(class "Default")
+			(node
+				(ref "R118")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R120")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R124")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R125")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "84")
+			(name "Net-(R122-Pad2)")
+			(class "Default")
+			(node
+				(ref "R122")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R123")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "85")
+			(name "Net-(R123-Pad1)")
+			(class "Default")
+			(node
+				(ref "R123")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R127")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R129")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R131")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "86")
+			(name "Net-(R125-Pad2)")
+			(class "Default")
+			(node
+				(ref "R125")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R126")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "87")
+			(name "Net-(R126-Pad1)")
+			(class "Default")
+			(node
+				(ref "R126")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R128")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R130")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R133")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "88")
+			(name "Net-(R131-Pad2)")
+			(class "Default")
+			(node
+				(ref "R131")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R132")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "89")
+			(name "Net-(R133-Pad2)")
+			(class "Default")
+			(node
+				(ref "R133")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R134")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "90")
+			(name "Net-(R135-Pad2)")
+			(class "Default")
+			(node
+				(ref "R135")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R136")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "91")
+			(name "Net-(R137-Pad2)")
+			(class "Default")
+			(node
+				(ref "R137")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R138")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "92")
+			(name "Net-(R139-Pad2)")
+			(class "Default")
+			(node
+				(ref "R139")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R140")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "93")
+			(name "Net-(R141-Pad2)")
+			(class "Default")
+			(node
+				(ref "R141")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R142")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+	)
+)
